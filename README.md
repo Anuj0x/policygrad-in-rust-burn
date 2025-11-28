@@ -174,24 +174,6 @@ This implementation is designed for:
 - **Autonomous Systems**: Memory-safe deployment in safety-critical applications
 - **Large-Scale RL**: Distributed training with predictable performance
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Original JAX implementation inspiration
-- Burn framework for high-performance deep learning in Rust
-- The Rust community for the incredible ecosystem
-
-## 📚 Citation
-
-If you use this repository in your work or find it useful, please cite our paper:
-
 ```bibtex
 @article{lehmann2024definitive,
       title={The Definitive Guide to Policy Gradients in Deep Reinforcement Learning: Theory, Algorithms and Implementations},
