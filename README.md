@@ -164,34 +164,3 @@ cargo bench
 ### Documentation
 ```bash
 cargo doc --open
-```
-
-## 📈 Research Applications
-
-This implementation is designed for:
-- **Robotics**: Real-time control with minimal latency
-- **Game AI**: High-throughput training for complex games
-- **Autonomous Systems**: Memory-safe deployment in safety-critical applications
-- **Large-Scale RL**: Distributed training with predictable performance
-
-```bibtex
-@article{lehmann2024definitive,
-      title={The Definitive Guide to Policy Gradients in Deep Reinforcement Learning: Theory, Algorithms and Implementations},
-      author={Matthias Lehmann},
-      year={2024},
-      eprint={2401.13662},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-
-@misc{policy_gradients_rust,
-      title={Policy Gradients in Rust: High-Performance Reinforcement Learning},
-      author={Your Name},
-      year={2024},
-      url={https://github.com/yourusername/policy-gradients-rust}
-}
-```
-
----
-
-**🚀 Experience the future of reinforcement learning: Safe, fast, and elegant by design.**
